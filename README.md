@@ -1,2 +1,2 @@
 # DEIM2526
-UD01
+Ejercicios UD02
